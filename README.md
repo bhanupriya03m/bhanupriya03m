@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey 👋 What's up?</h1>
-<p>Let's code, read, write, and talk tech!</p>p
+<p>Let's code, read, write, and talk tech!</p>
 
 
 ###
