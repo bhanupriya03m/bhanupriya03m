@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **bhanupriya03m/bhanupriya03m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey 👋 What's up?</h1>
-<h1 align="left">Let's code, read, write, and talk tech!</h1>
+<p>Let's code, read, write, and talk tech!</p>p
 
 
 ###
