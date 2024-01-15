@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey 👋 What's up? I'm Bhanupriya Maran</h1>
-<h3 align="center">I'm a Fullstack Developer on a journey to blend innovation with technology, fueled by a keen interest in machine learning.Ever-evolving in code and creativity.<br> Let's code, read, write, and talk tech! 🚀💻📚🖋️</h3>
+<h3 align="center">I'm a Fullstack Developer on a journey to blend innovation with technology, fueled by a keen interest in machine learning. Ever-evolving in code and creativity. Let's code, read, write, and talk tech! 🚀💻📚🖋️</h3>
 
 ###
 
