@@ -14,21 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hey 👋 What's up?</h1>
-<p>Let's code, read, write, and talk tech!</p>
-
+<h1 align="left">Hey 👋 What's up? I'm Bhanupriya Maran</h1>
+<h3 align="center">I'm a Fullstack Developer on a journey to blend innovation with technology, fueled by a keen interest in machine learning.Ever-evolving in code and creativity. Let's code, read, write, and talk tech! 🚀💻📚🖋️</h3>
 
 ###
 
-<p align="left">My name is Bhanupriya Maran and I'm a Fullstack Developer.</p>
+
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+- 🔭 I’m currently working on **Fullstack projects**
 
-<p align="left">✨ Constantly evolving in the realms of code and creativity<br>📚  With a keen interest in machine learning, I'm on a journey to blend innovation with technology 🎯.</p>
+- 🌱 I’m currently learning **Data Structure and Algorithms.**
+
+- 👯 I’m looking to collaborate on **professional projects**
+
+- 🤝 How to connect with me: [LinkedIn](https://www.linkedin.com/in/bhanupriya-maran/)
+
+- 📫 How to reach me: **mbpriya2003@gmail.com**
+
+
 
 ###
 
