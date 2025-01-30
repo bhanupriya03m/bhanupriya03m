@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2 align="left">About me</h2>
 
 ###
-- 🔭 I’m currently working on **Fullstack projects**
+- 🔭 I’m currently working on **Machine Learning projects**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
