@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey 👋 What's up? I'm Bhanupriya Maran</h1>
-<h3 align="center">I'm on a journey to blend innovation with technology, driven by my passion for Machine Learning. I'm always evolving in code and creativity. Let’s code, read, write, and talk tech! 🚀💻📚🖋️</h3>
+<h3 align="center">I'm on a journey to blend innovation with technology, driven by my passion for Machine Learning. I'm always evolving in code and creativity. Let’s code, read, write and talk tech! 🚀💻📚🖋️</h3>
 
 ###
 
